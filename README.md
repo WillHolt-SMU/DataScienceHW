@@ -15,12 +15,3 @@ library.("fivethirtyeight")
 
 Contact:
 For any questions please send an email to williamholt@sum.edu
-
-
-Remember, the one in the root directory should be general. You are
-welcome to make short READMEs for each assignment individually in other folders.
-c. In one (or more) of the nested directories, post your RMarkdown script, HTML file,
-and data from ‘fivethirtyeight.’ Make sure that in your README or elsewhere that
-you credit fivethirtyeight in some way.
-d. In your RMarkdown script, please provide the link to this GitHub so the grader can see
-it.
